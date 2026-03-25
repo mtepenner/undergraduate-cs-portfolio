@@ -24,7 +24,7 @@ Each folder represents a specific course and contains various programs demonstra
   * C-based projects exploring Client-Server architecture, custom Linux utilities (`stat` and `wc`), and multithreaded encryption.
 * **CS358: Principles of Programming Languages**
   * Interpreter and parser design using Python, including an ES Interpreter, a Toylang compiler, and currying logic.
-* **CS410 & CS410P: Advanced Software / Rust Programming**
+* **CS410 & CS410P: Advanced Software**
   * Various lab-based projects exploring modern software engineering practices.
 * **CS423: Advanced Systems & Simulation**
   * Complex software systems including an Air Traffic Control (ATC) Simulator and a Rule 110 Cellular Automaton, primarily developed in Rust.
