@@ -1,0 +1,5 @@
+siamese|cat|energetic|comfort|small|loves to play|12
+yorkshire terrier|dog|fun|playing|small|loves the ball|13
+greyhound chihuahua|dog|fun|playing|small|loves the ball|13
+siberian|tiger|scary|big|killing|loves to eat people|10
+tabby|cat|energetic|comfort|small|catnip addict|14
