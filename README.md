@@ -41,7 +41,7 @@ Because this repository is an archive of diverse projects, installation and exec
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mtepenner/undergraduate-cs-portfolio.git](https://github.com/mtepenner/undergraduate-cs-portfolio.git)
+   git clone https://github.com/mtepenner/undergraduate-cs-portfolio.git
    cd undergraduate-cs-portfolio
    ```
 
