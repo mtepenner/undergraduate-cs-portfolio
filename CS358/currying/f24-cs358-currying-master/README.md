@@ -19,7 +19,7 @@ To utilize the scripts in this repository, you must have Python 3 and a C compil
    git clone <repository-url>
    cd <repository-directory>
 
-```
+   ```
 
 2. **Compile the C programs:**
 You can compile the standard and tail-recursive Fibonacci programs using GCC with the `-O2` optimization flag:
